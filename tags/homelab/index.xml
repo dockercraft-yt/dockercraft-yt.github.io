@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dockercrafts Blog</title>
-    <link>https://dockercraft-yt.github.io/</link>
-    <description>Recent content on Dockercrafts Blog</description>
+    <title>Homelab on Dockercrafts Blog</title>
+    <link>https://dockercraft-yt.github.io/tags/homelab/</link>
+    <description>Recent content in Homelab on Dockercrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sat, 18 Oct 2025 23:24:42 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2025 23:24:42 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vaultwarden Restore</title>
@@ -67,16 +67,6 @@
       <pubDate>Sat, 18 Oct 2025 23:13:57 +0200</pubDate>
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/homelab/mein-homelab/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Über mich</title>
-      <link>https://dockercraft-yt.github.io/aboutme/</link>
-      <pubDate>Sat, 18 Oct 2025 23:01:52 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/aboutme/</guid>
       <description></description>
       
     </item>
