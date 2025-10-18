@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homelabs on Dockercrafts Blog</title>
+    <title>Homelab on DockerCrafts Blog</title>
     <link>https://dockercraft-yt.github.io/homelab/</link>
-    <description>Recent content in Homelabs on Dockercrafts Blog</description>
+    <description>Recent content in Homelab on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sat, 18 Oct 2025 23:13:57 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 00:19:12 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/homelab/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mein Homelab</title>
-      <link>https://dockercraft-yt.github.io/homelab/mein-homelab/</link>
-      <pubDate>Sat, 18 Oct 2025 23:13:57 +0200</pubDate>
+      <title>Unraid Server</title>
+      <link>https://dockercraft-yt.github.io/homelab/unraid-server/</link>
+      <pubDate>Sun, 19 Oct 2025 00:19:12 +0200</pubDate>
       <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/homelab/mein-homelab/</guid>
+      <guid>https://dockercraft-yt.github.io/homelab/unraid-server/</guid>
       <description></description>
       
     </item>

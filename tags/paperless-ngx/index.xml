@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paperless-Ngx on Dockercrafts Blog</title>
+    <title>Paperless-Ngx on DockerCrafts Blog</title>
     <link>https://dockercraft-yt.github.io/tags/paperless-ngx/</link>
-    <description>Recent content in Paperless-Ngx on Dockercrafts Blog</description>
+    <description>Recent content in Paperless-Ngx on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>

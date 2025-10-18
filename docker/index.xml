@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dockers on Dockercrafts Blog</title>
+    <title>Docker on DockerCrafts Blog</title>
     <link>https://dockercraft-yt.github.io/docker/</link>
-    <description>Recent content in Dockers on Dockercrafts Blog</description>
+    <description>Recent content in Docker on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
@@ -18,7 +18,7 @@
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/docker/vaultwardenrestore/feature.png" />
     </item>
     
     <item>
@@ -37,16 +37,6 @@
       <pubDate>Sat, 18 Oct 2025 23:17:09 +0200</pubDate>
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meine Docker Container</title>
-      <link>https://dockercraft-yt.github.io/docker/meine-docker-container/</link>
-      <pubDate>Sat, 18 Oct 2025 23:14:22 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/meine-docker-container/</guid>
       <description></description>
       
     </item>

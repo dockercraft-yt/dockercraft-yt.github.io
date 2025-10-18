@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smarthomes on Dockercrafts Blog</title>
+    <title>Smarthome on DockerCrafts Blog</title>
     <link>https://dockercraft-yt.github.io/smarthome/</link>
-    <description>Recent content in Smarthomes on Dockercrafts Blog</description>
+    <description>Recent content in Smarthome on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sat, 18 Oct 2025 23:14:40 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/smarthome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/smarthome/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Mein SmartHome</title>
-      <link>https://dockercraft-yt.github.io/smarthome/mein-smarthome/</link>
-      <pubDate>Sat, 18 Oct 2025 23:14:40 +0200</pubDate>
+      <title>HomeAssistant</title>
+      <link>https://dockercraft-yt.github.io/smarthome/homeassistant/</link>
+      <pubDate>Sun, 19 Oct 2025 00:23:07 +0200</pubDate>
       <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/smarthome/mein-smarthome/</guid>
+      <guid>https://dockercraft-yt.github.io/smarthome/homeassistant/</guid>
       <description></description>
       
     </item>

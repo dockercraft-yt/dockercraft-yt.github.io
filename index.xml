@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dockercrafts Blog</title>
+    <title>DockerCrafts Blog</title>
     <link>https://dockercraft-yt.github.io/</link>
-    <description>Recent content on Dockercrafts Blog</description>
+    <description>Recent content on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sat, 18 Oct 2025 23:24:42 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HomeAssistant</title>
+      <link>https://dockercraft-yt.github.io/smarthome/homeassistant/</link>
+      <pubDate>Sun, 19 Oct 2025 00:23:07 +0200</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>https://dockercraft-yt.github.io/smarthome/homeassistant/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unraid Server</title>
+      <link>https://dockercraft-yt.github.io/homelab/unraid-server/</link>
+      <pubDate>Sun, 19 Oct 2025 00:19:12 +0200</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>https://dockercraft-yt.github.io/homelab/unraid-server/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Vaultwarden Restore</title>
@@ -18,7 +38,7 @@
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/docker/vaultwardenrestore/feature.png" />
     </item>
     
     <item>
@@ -37,36 +57,6 @@
       <pubDate>Sat, 18 Oct 2025 23:17:09 +0200</pubDate>
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mein SmartHome</title>
-      <link>https://dockercraft-yt.github.io/smarthome/mein-smarthome/</link>
-      <pubDate>Sat, 18 Oct 2025 23:14:40 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/smarthome/mein-smarthome/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meine Docker Container</title>
-      <link>https://dockercraft-yt.github.io/docker/meine-docker-container/</link>
-      <pubDate>Sat, 18 Oct 2025 23:14:22 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/meine-docker-container/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mein Homelab</title>
-      <link>https://dockercraft-yt.github.io/homelab/mein-homelab/</link>
-      <pubDate>Sat, 18 Oct 2025 23:13:57 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/homelab/mein-homelab/</guid>
       <description></description>
       
     </item>
