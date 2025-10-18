@@ -4,6 +4,13 @@
 
   <url>
     <loc>https://dockercraft-yt.github.io/</loc>
+    <lastmod>2025-10-18T23:01:52+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockercraft-yt.github.io/aboutme/</loc>
+    <lastmod>2025-10-18T23:01:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
