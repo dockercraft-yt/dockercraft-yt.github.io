@@ -9,27 +9,7 @@
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 01:05:05 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Dockge</title>
-      <link>https://dockercraft-yt.github.io/docker/dockge/</link>
-      <pubDate>Sun, 19 Oct 2025 01:05:05 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/dockge/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Unraid</title>
-      <link>https://dockercraft-yt.github.io/docker/unraid/</link>
-      <pubDate>Sun, 19 Oct 2025 01:04:37 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/unraid/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sat, 18 Oct 2025 23:24:42 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Vaultwarden Restore</title>
@@ -58,7 +38,7 @@
       <author>dockercraft@gmail.com (DockerCraft)</author>
       <guid>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/docker/paperlessngxbackup/feature.png" />
+      
     </item>
     
   </channel>
