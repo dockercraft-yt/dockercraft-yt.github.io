@@ -3,79 +3,73 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dockercraft-yt.github.io/docker/</loc>
+    <lastmod>2025-10-24T22:27:01+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockercraft-yt.github.io/</loc>
+    <lastmod>2025-10-24T22:27:01+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://dockercraft-yt.github.io/posts/</loc>
     <lastmod>2025-10-24T16:11:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://dockercraft-yt.github.io/posts/test/</loc>
     <lastmod>2025-10-24T16:11:06+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/test/</loc>
-    <lastmod>2025-10-24T16:11:06+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/docker/</loc>
-    <lastmod>2025-10-19T01:05:05+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/docker/dockge/</loc>
-    <lastmod>2025-10-19T01:05:05+02:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/smarthome/homeassistant/</loc>
+    <loc>https://dockercraft-yt.github.io/smarthome/homeassistant/</loc>
     <lastmod>2025-10-19T00:23:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/smarthome/</loc>
+    <loc>https://dockercraft-yt.github.io/smarthome/</loc>
     <lastmod>2025-10-19T00:23:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/homelab/</loc>
+    <loc>https://dockercraft-yt.github.io/homelab/</loc>
     <lastmod>2025-10-19T00:19:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/homelab/unraid-server/</loc>
+    <loc>https://dockercraft-yt.github.io/homelab/unraid-server/</loc>
     <lastmod>2025-10-19T00:19:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docker/vaultwardenrestore/</loc>
+    <loc>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</loc>
     <lastmod>2025-10-18T23:24:42+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docker/vaultwardenbackup/</loc>
+    <loc>https://dockercraft-yt.github.io/docker/vaultwardenbackup/</loc>
     <lastmod>2025-10-18T23:19:53+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docker/paperlessngxbackup/</loc>
+    <loc>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</loc>
     <lastmod>2025-10-18T23:17:09+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://dockercraft-yt.github.io/aboutme/</loc>
     <lastmod>2025-10-18T23:01:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

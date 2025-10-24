@@ -15,16 +15,18 @@
 
   
   
-    <title> &middot; DockerCrafts Blog</title>
-    <meta name="title" content=" &middot; DockerCrafts Blog">
+    <title>Docker Image Cleanup &middot; DockerCrafts Blog</title>
+    <meta name="title" content="Docker Image Cleanup &middot; DockerCrafts Blog">
   
 
   
   
   
+    <meta name="keywords" content="homelab,docker,">
   
   
-  <link rel="canonical" href="http://localhost:1313/test/">
+  
+  <link rel="canonical" href="http://localhost:1313/docker/docker-image-cleanup/">
   
 
   
@@ -64,15 +66,20 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/test/">
+  <meta property="og:url" content="http://localhost:1313/docker/docker-image-cleanup/">
   <meta property="og:site_name" content="DockerCrafts Blog">
-  <meta property="og:title" content="DockerCrafts Blog">
+  <meta property="og:title" content="Docker Image Cleanup">
   <meta property="og:locale" content="de">
   <meta property="og:type" content="article">
+    <meta property="article:section" content="docker">
+    <meta property="article:published_time" content="2025-10-24T22:27:01+02:00">
+    <meta property="article:modified_time" content="2025-10-24T22:27:01+02:00">
+    <meta property="article:tag" content="Homelab">
+    <meta property="article:tag" content="Docker">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="DockerCrafts Blog">
+  <meta name="twitter:title" content="Docker Image Cleanup">
 
   
   
@@ -222,27 +229,27 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "DockerCrafts Blog",
-    "name": "",
-    "headline": "",
+    "articleSection": "Docker",
+    "name": "Docker Image Cleanup",
+    "headline": "Docker Image Cleanup",
     
     
     "inLanguage": "de",
-    "url" : "http:\/\/localhost:1313\/test\/",
+    "url" : "http:\/\/localhost:1313\/docker\/docker-image-cleanup\/",
     "author" : {
       "@type": "Person",
       "name": "DockerCraft"
     },
+    "copyrightYear": "2025",
+    "dateCreated": "2025-10-24T22:27:01\u002b02:00",
+    "datePublished": "2025-10-24T22:27:01\u002b02:00",
     
+    "dateModified": "2025-10-24T22:27:01\u002b02:00",
     
-    
-    
-    
-    
-    
+    "keywords": ["homelab","docker"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "0"
+    "wordCount": "292"
   }]
   </script>
 
@@ -730,6 +737,8 @@
   
     
   
+    
+  
   <li class="hidden">
     <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/"
       >DockerCrafts Blog</a
@@ -737,9 +746,16 @@
   </li>
 
   
+  <li class="inline">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/docker/"
+      >Docker</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
   <li class="hidden">
-    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/test/"
-      ></a
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/docker/docker-image-cleanup/"
+      >Docker Image Cleanup</a
     ><span class="px-1 text-primary-500">/</span>
   </li>
 
@@ -748,7 +764,7 @@
 
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        
+        Docker Image Cleanup
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -780,7 +796,11 @@
   
 
   
+    
+  
 
+  
+    
   
 
   
@@ -797,10 +817,18 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="0001-01-01T00:00:00&#43;00:00">01.01.0001</time>
+      <time datetime="2025-10-24T22:27:01&#43;02:00">10.10.2025</time><span class="px-2 text-primary-500">&middot;</span><span>292 Wörter</span><span class="px-2 text-primary-500">&middot;</span><span title="Lesezeit">2 min</span>
     
 
     
+    
+      <span class="ps-2"><span class="flex cursor-pointer">
+  <span
+    class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+    Entwurf
+  </span>
+</span>
+</span>
     
   </div>
 
@@ -816,7 +844,226 @@
 
       </div>
       
+    </header>
+
+    
+    <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+      
+      
+      
+      
+      
+        <div class="order-first lg:ml-auto px-0 lg:order-last lg:ps-8 lg:max-w-2xs">
+          <div class="toc ps-5 print:hidden lg:sticky lg:top-[140px]">
+            
+              <details
+  open
+  id="TOCView"
+  class="toc-right mt-0 overflow-y-auto overscroll-contain scrollbar-thin scrollbar-track-neutral-200 scrollbar-thumb-neutral-400 dark:scrollbar-track-neutral-800 dark:scrollbar-thumb-neutral-600 rounded-lg -ms-5 ps-5 pe-2 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Inhaltsverzeichnis
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#zweck">Zweck</a></li>
+    <li><a href="#funktionsweise">Funktionsweise</a></li>
+    <li><a href="#voraussetzungen">Voraussetzungen</a></li>
+    <li><a href="#verwendung">Verwendung</a></li>
+    <li><a href="#beispielausgabe">Beispielausgabe</a></li>
+    <li><a href="#hinweise">Hinweise</a></li>
+    <li><a href="#optionale-erweiterungen">Optionale Erweiterungen</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg -ms-5 ps-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 -ms-5 ps-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Inhaltsverzeichnis
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 border-s-1 -ms-5 ps-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#zweck">Zweck</a></li>
+    <li><a href="#funktionsweise">Funktionsweise</a></li>
+    <li><a href="#voraussetzungen">Voraussetzungen</a></li>
+    <li><a href="#verwendung">Verwendung</a></li>
+    <li><a href="#beispielausgabe">Beispielausgabe</a></li>
+    <li><a href="#hinweise">Hinweise</a></li>
+    <li><a href="#optionale-erweiterungen">Optionale Erweiterungen</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+
+
+            
+          </div>
+        </div>
+      
+
+
+      <div class="min-w-0 min-h-0 max-w-fit">
         
+
+        <div class="article-content max-w-prose mb-20">
+          
+<h2 class="relative group">Zweck
+    <div id="zweck" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#zweck" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<p>Dieses Skript dient dazu, ungenutzte Docker-Images zu entfernen, um Speicherplatz auf dem System freizugeben.<br>
+Es zeigt vor und nach der Bereinigung den belegten Speicherplatz durch Docker-Komponenten an.</p>
+<p><a
+  href="https://github.com/dockercraft-yt/Docker-Scripts/tree/a3b16f98956858c2bcfd8c944955fcc2c0826f63/docker/image%20cleaner"
+    target="_blank"
+  >Zum Script</a></p>
+<hr>
+
+<h2 class="relative group">Funktionsweise
+    <div id="funktionsweise" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#funktionsweise" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<p>Das Skript führt folgende Schritte aus:</p>
+<ol>
+<li>
+<p><strong>Anzeige des aktuellen Docker-Speicherverbrauchs</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">docker system df
+</span></span></code></pre></div><p>→ Zeigt Speicherverbrauch von Images, Containern, Volumes und Caches.</p>
+</li>
+<li>
+<p><strong>Löschen ungenutzter Images</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">docker image prune -a --force
+</span></span></code></pre></div><p>→ Entfernt <strong>alle Images</strong>, die aktuell von keinem Container verwendet werden.<br>
+Das <code>-a</code> steht für „all“, also auch Images, die nicht als „dangling“ markiert sind.<br>
+Das <code>--force</code> unterdrückt die Bestätigungsabfrage.</p>
+</li>
+<li>
+<p><strong>Anzeige des neuen Speicherverbrauchs</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">docker system df
+</span></span></code></pre></div><p>→ Zeigt den neuen Speicherverbrauch nach der Bereinigung an.</p>
+</li>
+</ol>
+<hr>
+
+<h2 class="relative group">Voraussetzungen
+    <div id="voraussetzungen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#voraussetzungen" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<ul>
+<li>Docker muss auf dem System installiert und im Pfad verfügbar sein.</li>
+<li>Das Skript benötigt <strong>root- oder sudo-Rechte</strong>, falls Docker für den aktuellen Benutzer nicht direkt ausführbar ist.</li>
+</ul>
+<hr>
+
+<h2 class="relative group">Verwendung
+    <div id="verwendung" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#verwendung" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<ol>
+<li>Skript speichern, z. B. unter <code>/usr/local/bin/cleaner.sh</code></li>
+<li>Ausführbar machen:
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">chmod +x /usr/local/bin/cleaner.sh
+</span></span></code></pre></div></li>
+<li>Skript ausführen:
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">./cleaner.sh
+</span></span></code></pre></div>oder mit Root-Rechten:
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo ./cleaner.sh
+</span></span></code></pre></div></li>
+</ol>
+<hr>
+
+<h2 class="relative group">Beispielausgabe
+    <div id="beispielausgabe" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#beispielausgabe" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<pre tabindex="0"><code>📦 Speicherverbrauch vor der Bereinigung:
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          15        4         10GB      8GB (80%)
+Containers      4         4         200MB     0B (0%)
+Local Volumes   2         2         50MB      0B (0%)
+Build Cache     0         0         0B        0B
+
+🚀 Lösche ungenutzte Docker Images...
+
+Deleted Images:
+deleted: sha256:123abc...
+deleted: sha256:456def...
+
+📦 Speicherverbrauch nach der Bereinigung:
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          4         4         2GB       0B (0%)
+...
+</code></pre><hr>
+
+<h2 class="relative group">Hinweise
+    <div id="hinweise" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#hinweise" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<ul>
+<li>Das Skript entfernt <strong>keine laufenden oder gestoppten Container</strong>.</li>
+<li>Es löscht <strong>nur Images</strong>, die nicht mehr mit einem Container verknüpft sind.</li>
+<li>Regelmäßige Ausführung kann helfen, Speicherplatz auf Build- oder Testsystemen freizuhalten.</li>
+<li>In produktiven Umgebungen sollte geprüft werden, ob Images evtl. noch benötigt werden.</li>
+</ul>
+<hr>
+
+<h2 class="relative group">Optionale Erweiterungen
+    <div id="optionale-erweiterungen" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#optionale-erweiterungen" aria-label="Anker">#</a>
+    </span>
+    
+</h2>
+<ul>
+<li>Automatische Protokollierung der gelöschten Images in einer Log-Datei</li>
+<li>Optionale Bestätigung vor dem Löschen</li>
+<li>Integration in <code>cron</code> oder <code>systemd</code>-Timer für regelmäßige Bereinigung</li>
+</ul>
+
+          
+          
+          
+        </div>
+        
+          
   
   
   
@@ -938,30 +1185,9 @@
   
 
   
-    <div class="mb-5"></div>
+    <div class="mb-10"></div>
   
 
-      
-    </header>
-
-    
-    <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
-      
-      
-      
-      
-      
-
-
-      <div class="min-w-0 min-h-0 max-w-fit">
-        
-
-        <div class="article-content max-w-prose mb-20">
-          
-          
-          
-          
-        </div>
         
         
 
@@ -984,8 +1210,8 @@
           type="text/javascript"
           src="/js/page.min.54b6f4371722649edbe871e431d8670d670878c22be8f36e229fe53cc9b786fe25a834def5e6de621f7a3e37b72bc8cd73839aa5ed907ed6cbd45cd3e1b0fa20.js"
           integrity="sha512-VLb0NxciZJ7b6HHkMdhnDWcIeMIr6PNuIp/lPMm3hv4lqDTe9ebeYh96Pje3K8jNc4Oape2QftbL1FzT4bD6IA=="
-          data-oid="views_Test.md"
-          data-oid-likes="likes_Test.md"></script>
+          data-oid="views_docker\docker-image-cleanup\index.md"
+          data-oid-likes="likes_docker\docker-image-cleanup\index.md"></script>
       
     </section>
 
@@ -1001,21 +1227,21 @@
       <div class="flex justify-between pt-3">
         <span class="flex flex-col">
           
-        </span>
-        <span class="flex flex-col items-end">
-          
             <a
-              class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/aboutme/">
+              class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+              href="/docker/docker-container-backup/">
               <span class="leading-6">
-                Über mich&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;Docker Container Backup
               </span>
             </a>
             
-              <span class="me-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                <time datetime="2025-10-18T23:01:52&#43;02:00">10.10.2025</time>
+              <span class="ms-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                <time datetime="2025-10-24T22:22:37&#43;02:00">10.10.2025</time>
               </span>
             
+          
+        </span>
+        <span class="flex flex-col items-end">
           
         </span>
       </div>
