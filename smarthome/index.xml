@@ -11,15 +11,5 @@
     <copyright>© 2025 DockerCraft</copyright>
     <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/smarthome/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>HomeAssistant</title>
-      <link>https://dockercraft-yt.github.io/smarthome/homeassistant/</link>
-      <pubDate>Sun, 19 Oct 2025 00:23:07 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/smarthome/homeassistant/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

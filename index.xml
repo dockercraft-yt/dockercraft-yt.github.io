@@ -12,56 +12,6 @@
     <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>HomeAssistant</title>
-      <link>https://dockercraft-yt.github.io/smarthome/homeassistant/</link>
-      <pubDate>Sun, 19 Oct 2025 00:23:07 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/smarthome/homeassistant/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Unraid Server</title>
-      <link>https://dockercraft-yt.github.io/homelab/unraid-server/</link>
-      <pubDate>Sun, 19 Oct 2025 00:19:12 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/homelab/unraid-server/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vaultwarden Restore</title>
-      <link>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</link>
-      <pubDate>Sat, 18 Oct 2025 23:24:42 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/docker/vaultwardenrestore/feature.png" />
-    </item>
-    
-    <item>
-      <title>Vaultwarden Backup</title>
-      <link>https://dockercraft-yt.github.io/docker/vaultwardenbackup/</link>
-      <pubDate>Sat, 18 Oct 2025 23:19:53 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/vaultwardenbackup/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/docker/vaultwardenbackup/feature.png" />
-    </item>
-    
-    <item>
-      <title>paperless-NGX Backup</title>
-      <link>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</link>
-      <pubDate>Sat, 18 Oct 2025 23:17:09 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Über mich</title>
       <link>https://dockercraft-yt.github.io/aboutme/</link>
       <pubDate>Sat, 18 Oct 2025 23:01:52 +0200</pubDate>
