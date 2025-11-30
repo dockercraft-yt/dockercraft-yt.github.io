@@ -9,7 +9,67 @@
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sat, 25 Oct 2025 00:39:21 +0200</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 00:33:56 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Docker Installation</title>
+      <link>http://localhost:1313/tutorials/2025/docker-installation/</link>
+      <pubDate>Sun, 30 Nov 2025 00:33:56 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/docker-installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paperless-ngx Konfiguration and Backup</title>
+      <link>http://localhost:1313/tutorials/2025/paperless-ngx/config-and-backup/</link>
+      <pubDate>Sat, 29 Nov 2025 16:14:56 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/paperless-ngx/config-and-backup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paperless-ngx Erst-Start</title>
+      <link>http://localhost:1313/tutorials/2025/paperless-ngx/first-run/</link>
+      <pubDate>Sat, 29 Nov 2025 16:14:38 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/paperless-ngx/first-run/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paperless-ngx Installation</title>
+      <link>http://localhost:1313/tutorials/2025/paperless-ngx/install/</link>
+      <pubDate>Sat, 29 Nov 2025 16:14:23 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/paperless-ngx/install/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Immich - Installation auf Unraid</title>
+      <link>http://localhost:1313/tutorials/2025/Immich-Installation-auf-Unraid/</link>
+      <pubDate>Sat, 22 Nov 2025 23:30:23 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/Immich-Installation-auf-Unraid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hugo - Mein Erster Post</title>
+      <link>http://localhost:1313/tutorials/2025/hugo-mein-erster-post/</link>
+      <pubDate>Sat, 22 Nov 2025 23:25:03 +0100</pubDate>
+      <author>dockercraft@gmail.com (DockerCraft)</author>
+      <guid>http://localhost:1313/tutorials/2025/hugo-mein-erster-post/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Hugo - Statische Webseite Pfeilschnell</title>
