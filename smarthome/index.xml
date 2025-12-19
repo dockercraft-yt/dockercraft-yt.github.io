@@ -2,24 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Smarthome on DockerCrafts Blog</title>
-    <link>http://localhost:1313/smarthome/</link>
+    <link>https://dockercraft-yt.github.io/smarthome/</link>
     <description>Recent content in Smarthome on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="http://localhost:1313/smarthome/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>HomeAssistant</title>
-      <link>http://localhost:1313/smarthome/homeassistant/</link>
-      <pubDate>Sun, 19 Oct 2025 00:23:07 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>http://localhost:1313/smarthome/homeassistant/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Sun, 19 Oct 2025 00:23:07 +0200</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/smarthome/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
