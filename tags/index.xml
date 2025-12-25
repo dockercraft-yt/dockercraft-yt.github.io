@@ -21,45 +21,5 @@
       
     </item>
     
-    <item>
-      <title>Docker</title>
-      <link>https://dockercraft-yt.github.io/tags/docker/</link>
-      <pubDate>Sat, 18 Oct 2025 23:24:42 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/tags/docker/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Backup</title>
-      <link>https://dockercraft-yt.github.io/tags/backup/</link>
-      <pubDate>Sat, 18 Oct 2025 23:19:53 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/tags/backup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vaultwarden</title>
-      <link>https://dockercraft-yt.github.io/tags/vaultwarden/</link>
-      <pubDate>Sat, 18 Oct 2025 23:19:53 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/tags/vaultwarden/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Paperless-Ngx</title>
-      <link>https://dockercraft-yt.github.io/tags/paperless-ngx/</link>
-      <pubDate>Sat, 18 Oct 2025 23:17:09 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/tags/paperless-ngx/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>

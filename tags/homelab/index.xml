@@ -21,35 +21,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dockercraft-yt.github.io/homelab/unraid-server/feature.png" />
     </item>
     
-    <item>
-      <title>Vaultwarden Restore</title>
-      <link>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</link>
-      <pubDate>Sat, 18 Oct 2025 23:24:42 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/vaultwardenrestore/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vaultwarden Backup</title>
-      <link>https://dockercraft-yt.github.io/docker/vaultwardenbackup/</link>
-      <pubDate>Sat, 18 Oct 2025 23:19:53 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/vaultwardenbackup/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>paperless-NGX Backup</title>
-      <link>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</link>
-      <pubDate>Sat, 18 Oct 2025 23:17:09 +0200</pubDate>
-      <author>dockercraft@gmail.com (DockerCraft)</author>
-      <guid>https://dockercraft-yt.github.io/docker/paperlessngxbackup/</guid>
-      <description></description>
-      
-    </item>
-    
   </channel>
 </rss>
