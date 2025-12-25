@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on DockerCrafts Blog</title>
-    <link>https://dockercraft-yt.github.io/docker/</link>
+    <link>https://blog.dockercraft.xyz/docker/</link>
     <description>Recent content in Docker on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Fri, 07 Nov 2025 23:38:56 +0100</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Nov 2025 23:38:56 +0100</lastBuildDate><atom:link href="https://blog.dockercraft.xyz/docker/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

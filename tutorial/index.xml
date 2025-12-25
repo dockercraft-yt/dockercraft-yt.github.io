@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial on DockerCrafts Blog</title>
-    <link>https://dockercraft-yt.github.io/tutorial/</link>
+    <link>https://blog.dockercraft.xyz/tutorial/</link>
     <description>Recent content in Tutorial on DockerCrafts Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <managingEditor>dockercraft@gmail.com (DockerCraft)</managingEditor>
     <webMaster>dockercraft@gmail.com (DockerCraft)</webMaster>
     <copyright>© 2025 DockerCraft</copyright>
-    <lastBuildDate>Sun, 30 Nov 2025 00:33:56 +0100</lastBuildDate><atom:link href="https://dockercraft-yt.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Nov 2025 00:33:56 +0100</lastBuildDate><atom:link href="https://blog.dockercraft.xyz/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

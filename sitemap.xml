@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://dockercraft-yt.github.io/</loc>
+    <loc>https://blog.dockercraft.xyz/</loc>
     <lastmod>2025-11-30T00:33:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/tutorial/</loc>
+    <loc>https://blog.dockercraft.xyz/tutorial/</loc>
     <lastmod>2025-11-30T00:33:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/docker/</loc>
+    <loc>https://blog.dockercraft.xyz/docker/</loc>
     <lastmod>2025-11-07T23:38:56+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/smarthome/</loc>
+    <loc>https://blog.dockercraft.xyz/smarthome/</loc>
     <lastmod>2025-10-19T00:23:07+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/homelab/</loc>
+    <loc>https://blog.dockercraft.xyz/homelab/</loc>
     <lastmod>2025-10-19T00:19:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/homelab/unraid-server/</loc>
+    <loc>https://blog.dockercraft.xyz/homelab/unraid-server/</loc>
     <lastmod>2025-10-19T00:19:12+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://dockercraft-yt.github.io/aboutme/</loc>
+    <loc>https://blog.dockercraft.xyz/aboutme/</loc>
     <lastmod>2025-10-18T23:01:52+02:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
